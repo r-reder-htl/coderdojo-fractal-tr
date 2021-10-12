@@ -130,7 +130,7 @@ function generateColoredTree() {
   const level = 0;
   const angle = -90;
   const branchLength = 100;
-  const maxLevel = 11;
+  const maxLevel = 13;
   const angleChange = 20;
   const branchLengthChange = 0.77;
   const randomAngleChange = 15;
